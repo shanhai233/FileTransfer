@@ -21,7 +21,7 @@ Linux环境中搭建了C/S架构的文件传输服务器，通过Qt实现支持H
 
 ## 项目架构图
 
-![1527001368556](resource\system.png)
+![](resource/system.png)
 
 1. 客户端
    - 网络架构:
@@ -65,4 +65,4 @@ make
 
 ## 效果展示
 
-![file](resource\file.gif)
+![](resource/file.gif)
